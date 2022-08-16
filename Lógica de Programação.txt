@@ -1,0 +1,850 @@
+CAPÍTULO 1 - Lógica, Algoritmo e Pseudocódigo.
+
+A lógica é, antes de tudo uma área da Filosofia, que se dedica a refletir sobre as diferentes formas de
+raciocinar. Assim sendo, a lógica define o encadeamento de ações mais coerentes para chegar a um objetivo.
+Exemplo: O computador é uma invenção lógica que funciona a partir de uma sequência de instruções ou 
+comandos, e que para ser eficiente deve ser programado logicamente, isto é, codificado por meio de elementos
+e atributos de programação.
+
+- A Lógica defende o uso da razão para entender, calcular, processar, pesquisar, questionar e decidir sobre
+as coisas do mundo. Por isso, praticamente tudo que os homens fazem é orientado por ela, de pesquisas 
+científicas a decisões do dia a dia. 
+
+- A lógica é o princípio mais importante no desenvolvimento de programas de computador, todo aplicativo ou
+sistema de computador deve ser projetado e desenvolvido de forma racional para que possamos chegar a sequências
+lógicas de instruções que seja coerentes e, principalmente, eficazes. 
+
+- De Acordo com Moraes(2000): Uma sequência lógica é um grupo de passos estabelecidos para chegar a um resultado,
+a um objetivo ou à uma solução de um problema.
+
+Perceba que nesse tipo de encadeamento, tanto a ordem das ações como a natureza delas são importantes. Na 
+pratica, as sequência lógicas trazem:
+    As intruções que devem ser feitas (o quê).
+    A ordem em que as instruções devem ser realizadas (quando).
+
+Em informática, instrução é uma ordem ou um comando que indica ao computador uma ação elementar a ser executada
+(Moraes 2000).
+
+Lógica no conxteto da Programação.
+
+As instruções são regras criadas para serem realizadas em situações específicas. Por exemplo, quando compramos 
+aparelhos eletrônicos, recebemos manuais de instrução. Esses manuais descrevem o que deve ser feito para que
+os aparelhos funcionem corretamente.
+Como pode perceber, o computador é uma máquina que realiza, exclusivamente, o que ela for programada para fazer.
+Dessa forma, um programa nada mais é do que uma sequência lógica de intruções organizadas para manipular
+informações inseridas pelos usuários. Tudo isso é feito para atingir determinado fim.
+
+Importância do Aprendizado de Lógica de Programação.
+
+O objetivo principal deste conteúdo é proporcionar ao aprendiz de como se pode raciocinar de forma lógica.
+
+Exercício   
+
+Questão 1 - Você explicou a um estagiário, na empresa de TI em que trabalha, que computadores são máquinas que
+realizam funções diversas conforme uma programação. Explicou também que um programa é:
+
+R: Uma sequência lógica de instruções organizadas para manipular informações inseridas pelos usuários.
+
+Questão 2 - Estudando com um colega para a prova do curso de TI, vocês reviram que a lógica pode ser entendida 
+como a área da Filosofia que estuda o processo racional. Nossas afirmativas, decisões e atitudes, muitas vezes
+são decorrentes de relações que estabelecemos, mentalmente, entre fatos e ideias, e que julgamos ter ou não
+coerência com nosso entorno. Então vocês resolveram verificar a coerência de algumas sentenças ligadas a questões 
+cotidianas.
+
+Afirmações:
+
+- Escolhas, como as de roupas para sair, são demandam lógica. (Falso)
+- Para buscar a solução de um crime, é necessário analisar logicamente os fatos. (Verdadeiro)
+- Para ratear a conta de um restaurante entre cinco amigos, é preciso somar o consumo total e multiplicar por 
+cinco. (Falso)
+- Se um primeiro objeto é igual ao segundo, e esse segundo é igual ao terceiro, então, o primeiro objeto é 
+igual ao terceiro. (Verdadeiro).
+--------------------------------------------------------------------------------Algoritmos.
+
+- Tópico relacionado a Algoritmos, apresentará regras, conceitos e ferramentas que facilitam a estruturação do 
+raciocínio lógico na criação de algoritmos.
+
+Algoritmos e suas aplicações em informática.
+
+- O algoritmo é a descrição detalhada das etapas que devem ser percorridas para se chegar a uma solução. Em outras
+palavras, é preciso diferenciar a solução de um programa da proposta de de uma solução.
+
+Algoritmo então é um conjunto de regras e procedimentos lógicos perfeitamente definidos que levam à solução de um 
+problema por meio de um número finito de etapas.
+ 
+Etapas necessárias para o desenvolvimento de um programa (software)
+
+1 - Estudo do problema : Análise do problema e de seu contexto, para identificar a situação, refletir sobre suas
+características e apresentar as possíveis soluções.
+
+2 - Estruturação do algoritmo : Escolha da melhor solução possível para resolver o problema e estruturação da 
+proposta em forma de "projeto de programa" (algoritmo).
+
+3 - Desenvolvimento do código (programação) : Escrita do algoritmo a partir das regras e dos padrões de uma 
+linguagem de programação específica, tal como C#, Java, C, C++, VB, PHP. É nesta etapa que ocorre a codificação 
+do algoritmo.
+
+4 - Implantação da solução : Implantação do programa em situação de vida real, para verificar se o problema foi
+resolvido, e realização de eventuais ajustes (manutenção).
+
+Para resolver um problema fazendo o uso de um computador, precisa-se descrever o problema de forma clara e precisa,
+primeiro será necessário montar uma sequência de passos que permita que o problema seja solucionado de maneira 
+automática e repetitiva. No conxteto de desenvolvimento de programas, existe mais de uma forma de representar o
+algoritmo que normalmente são utilizadas.
+
+- Descrição Narrativa.
+- Diagrama de blocos ou Fluxograma.
+- Português estruturado ou Pseudocódigo.
+
+Lembrando: Sequências lógicas são as etapas que devem ser realizadas para que o objetivo seja atingido. Em outras
+palavras, são os passo executados até se atingir a solução de um problema.
+
+Intruções em Lógica: 
+
+- As sequências lógicas nos permite utilizar a lógica para ordenar e corrigir pensamentos ou ações voltados para a 
+solução do problema.
+
+Intruções são informações, ordens ou comandos que indicam a um computador o que ele deve fazer.
+
+- Uma ordem isolada não permite a realização de um processo completo. Para isso, é necessário um conjunto de 
+intruções colocadas em uma sequência lógica.
+
+Programas, Aplicativos ou Softwares.
+
+Programas são algoritmos que foram codificados em uma determinada linguagem de programação. As linguagens de 
+programação vêm mudando bastante com o tempo. No entanto, a forma de pensar em soluções computadorizadas e de fazer 
+projetos de programas quase não sofreu alterações ao longo dos anos. Além disso novas linguagens surgem de tempos
+em tempos, fruto do constante desenvolvimento tecnológico, sempre em busca de soluções mais inteligentes e eficientes
+em programação. 
+
+Sabemos que o computador é muito importante no nosso dia a dia, no entanto o computador só é capaz de facilitar nossas
+atividades e resolver nossos problemas se for programado. Nesse sentido, existem programas específicos, denominados
+APLICATIVOS, que buscam resolver um problema específico a partir de dados informados pelos usuários. Cada aplicativo 
+(programa específico) tem sua função, por exemplo, existem programas para 
+
+- Editar textos.
+- Fazer tabelas e gráficos.
+- Encontrar restaurantes em determinado local.
+- Trocar mensagens entre celulares.
+
+Sendo utilizado o computador, sabe que os programas têm limites, e podem apresentar erros de vez em quando. Isso ocorre
+porque, diferentemente dos seres humanos, os programas só resolvem situações previamentes pensadas. 
+
+- Nesse sentido, programar é prever situações e tomar decisões sobre como alcançar os resultados esperados. Não podemos
+esquecer que sempre existe mais de uma forma de resolver um problema. 
+
+- Na prática, isso significa que a Lógica é o pilar de sustentação do profissional da área de informática.
+
+Os Softwares são considerados funcionais e estáveis, são aqueles cujos programadores se dedicaram muito em busca de uma
+sequência lógica perfeita. Cada algoritmo produzido deve ser analisado e repensado, a fim de identificar o que pode ser
+feito para obter a melhor solução possível. Nesse sentido, a lógica aplicada deve ser clara e concisa, o que poderá gerar
+um menor tempo de processamento, mas não significa, necessáriamente, uma melhor performace da máquina ou vice-versa. De 
+qualquer formar, tudo visa a resultados corretos, entregues com rapidez e eficiência. Esse é o objetivo de qualquer programa.
+
+Obs: Na área de informática, o sucesso de um programador requer aperfeiçoamento da lógica, raciocínio cada vez melhor, crítica
+sobre o que se faz e análise da situação como um todo. Com isso, é possível conseguir ótimos resultados.
+
+Descrição Narrativa
+
+Em primeiro lugar, exite mais de uma forma de registrar algoritmos. Para entender isso, veja as instruções utilizadas
+para sacar dinheiro em um caixa eletrônico.
+
+1 - Entrar no Banco.                                6 - Informar o valor a ser retirado.
+2 - Procurar a fila do caixa eletrônico.            7 - Digitar a senha.
+3 - Entrar na fila do caixa eletrônico.             8 - Pegar o dinheiro, o cartão eletrônico e o comprovante de saque.
+4 - Aguardar a vez do atendimento.                  9 - Conferir o valor em dinheiro
+5 - Inserir o cartão eletrônico no caixa.          10 - Sair do banco.
+
+Essa sequência de frases curtas, com comandos claros e encadeados em ordem lógica, é a forma mais simples de criar algoritmos.
+Esse jeito de elaborar algoritmos se chama descrição narrativa e é muito usado em documentos como manuais de equipamentos, receitas
+culinárias, bula de remédio, descrições do tipo faça você mesmo e etc. A técnica da descrição narrativa pode ser o mais fácil e 
+simples de ser utilizada, pois é a mais próxima da linguagem que usamos no dia a dia para nos comunicarmos.
+
+Regras para o Desenvolvimento de Algoritmo
+
+1 - Seja direito: Escreva frases curtas e simples com apenas um verbo.
+2 - Seja detalhista: Descreva, com detalhes, todos os passos necessários.
+3 - Seja lógico: Encadeie as ações na ordem em que elas devem acontecer.
+4 - Seja objetivo: Procure atingir o objetivo proposto com o menor número de passos, tomando cuidado de não pular passos importantes.
+5 - Seja claro: Evite o uso de palavras e expressões com duplo sentido.
+6 - Seja compreensível: Redija intruções de forma que qualquer pessoa possa entendê-las, não somente profissionais da área.
+7 - Seja crítico: Faça a leitura crítica de seu algoritmo para melhorar a escrita e o encadeamento lógico dele.
+
+Diagrama de blocos ou Fluxograma
+ 
+Os algoritmos também podem ser representados por um método gráfico chamado de Diagrama de blocos ou Fluxograma.
+
+- O diagrama de blocos é uma forma padronizada e eficaz de representarmos os passos lógicos de um processamento, com o diagrama
+podemos definir uma sequência de símbolos com significados bem definidos, desse modo, a principal função do diagrama é a de facilitar
+a visualização dos passos de um processamento.
+- Para construir o diagrama de blocos é preciso fazer o uso padronizado dos símbolos e das palavras. Esse elemento são capazes de 
+mostrar soluções para processos de qualquer grau de complexidade. 
+
+- Os Fluxogramas são bastante populares uma vez que seus esquemas são relativamente fáceis de entender. Além disso por meio deles 
+é possível desenhar soluções de processos complexos usando pouca escrita. Nos diagramas de bloco, cada ação, instrução ou processamento
+deve ser descrito dentro de um símbolo geométrico de modo resumido. Nesse sendido setas e palavras são usadas para indicar o caminho
+percorrido, ou seja, o fluco do processamento.
+
+Padrão de utilização das principais formas geométricas.
+
+1 - Terminal: Indica o ponto de início ou término de uma sequência lógica. Deve ser utilizado com a palavra Início ou Fim escrita 
+dentro da figura.
+2 - Verificação ou Decisão: Indica o ponto de teste (verdadeiro ou falso) ou de tomada de decisão (sim ou não). Conta com uma entrada
+e permite indicar duas saídas diferentes, sendo uma para cada situação/resposta.
+3 - Seta de Fluxo: Indica o sentido do fluxo de informações e instruções. Deve ser utilizada para conectar todos os símbolos do diagrama.
+4 - Ação ou processamento: Indica uma ação ou um processamento de qualquer tipo.
+Exemplos:  - Calcular o preço final do produto.
+           - Jogar a embalagem no lixo.
+5 - Entrada/Saída de dados: Símbolo genérico que indica a entrada ou a saída de dados, respectivamente uma leitura/captura de dados 
+ou uma gravação/apresentação da informação após o processamento, independentemente da forma como essas informações serão inseridas 
+ou disponibilizadas aos usuários.
+    - Entrada de dados (via cartão): Indica a entrada de dados, através da leitura em cartão perfurado. Este símbolo está desuso atualmente.
+    - Entrada manual (via teclado): Indica a entrada de dados feita manualmente pelo usuário, isto é, por meio de digitação.
+        Exemplos: Digitar o preço do produto, entrar/digitar a nota da avaliação.
+    - Saída de dados (via monitor): Indica que algum resultado, dado ou informação será exibido na tela do dispositivo ao usuário.
+        Exemplos: Mostrar/exibir/apresentar a média do aluno, exibir o valor total do produto.
+    - Saída de dados (via impressora): Indica resultados ou informações que serão disponibilizadas ao usuário por meio de impressão: recibos
+    relatórios, documentos etc. 
+        Exemplos: Imprimir relatório de compra ou venda, imprimir recibo de entrega de documento.
+6 - Conector: Indica o ponto a partir do qual o algoritmo ou processamento irá continuar em outro lugar, repetindo, também, este mesmo símbolo,
+deve conter um mesmo número ou uma mesma letra em seu interior, indicando a saída com a sua respectiva entrada no fluxo. Funciona como um
+conector, que tem por objetivo dar continuidade a duas partes de um mesmo processo que se encontram escritas em locais separados.
+
+IMPORTANTE: Se necessário, podemos definir vários conectores de saída no fluxo, mas APENAS UM conector de entrada.
+
+
+Exercício
+
+Questão 1 - Você recebeu um novo estagiário na empresa em que trabalha e, para auxiliá-lo, precisa passa-lhe algumas informações sobre
+os algoritmos e as aplicações na informática. Selecione o termo que completa corretamente cada uma das definições a seguir:
+
+R: - INSTRUÇÃO é a informação que indica a um computador o que ele tem de fazer.
+- ALGORITMO é a descrição detalhada das etapas que devem ser percorridas para se chegar a uma solução.
+- PADRONIZAÇÃO permite que diferentes profissionais de informática possam compreender o algoritmo.
+- CODIFICAÇÃO é a escrita do algoritmo a partir das regras e dos padrões de uma linguagem de programação.
+
+Questão 2 - Você foi designado, na empresa de TI em que trabalha, para fornecer informações básicas a estagiários inciantes. Um deles
+perguntou sobre algoritmos e suas funções. Uma das explicações corretas que você forneceu foi que:
+
+R: O algoritmo é desenvolvido a partir de uma solução para um problema.
+--------------------------------------------------------------------------------
+Pseudocódigos.
+
+- O pseudocódigo usa termos da língua portuguesa encadeados e organizados de forma parecida com as diferentes linguagens de programação. Seu 
+objetivo é simplificar o processo de programação. Para entender um algoritmo escrito em pseudocódigo, você não precisa ter o conhecimento
+prévio de nenhuma linguagem de programação específica. Nesse tipo de algoritmo, as estruturas lógicas são escritas em uma linguagem próxima ao
+português e na sequência em que devem ser executadas.
+
+Ao contruir um projeto de programa (algoritmo) em pseudocódigo, você está representando o encadeamento lógico necessário para resolver um
+problema da forma mais próxima que existe de uma linguagem de programação. A opção pelo pseudocódigo na etapa da estruturação do algoritmo 
+proporciona um ganho de tempo na etapa de desenvolvimento do código.
+
+Etapas de Desenvolvimento de um Software:
+
+1 - Estudo do problema - Análise do problema e de seu contexto, para identificar a situação, refletir sobre suas características e apresentar as
+possíveis soluções.
+2 - Estruturação do algoritmo - Escolha da melhor solução possível para resolver o problema e estruturação da proposta em forma de "projeto de
+programa" (algoritmo).
+3 - Desenvolvimento do código (programação) - Escrita do algoritmo a partir das regras e dos padrões de uma linguagem de programação específica,
+tal como C#, Java, C, C++, VB, PHP. É nessa etapa que ocorre a codificação do algoritmo.
+4 - Implantação da solução - Implantação do programa em situação de vida real, para verificar se o problema foi resolvido, e realização de
+eventuais ajustes (manutenção).
+ 
+Exemplos de escrita com Descrição Narrativa e Pseudocódigo.
+
+Descrição Narrativa: 
+
+Algoritmo para converter real em dólar:
+Informar o valor disponível em reais para comprar dólares.
+Informar a cotação do dólar do dia.
+Dividir o valor disponível pela cotação do dia.
+Exibir o resultado do cálculo para o usuário.
+
+Pseudocódigo:
+
+Algoritmo Conversao_real_dolar
+// rotina que converte um determinado valor em reais em dólares
+	Var
+	VALOR_REAL, COTACAO_DOLAR, CONVERSAO: real
+		VALOR_REAL = 0
+		COTACAO_DOLAR = 0
+		CONVERSAO = 0
+Início
+	Escreva “Programa para converter reais em dólares”
+	Escreva “Informe o valor disponível em reais (para comprar dólares): R$”
+	Leia VALOR_REAL
+	Escreva “Informe o valor do dólar em reais (cotação do dia): R$”
+	Leia COTACAO_DOLAR
+	CONVERSAO = VALOR_REAL / COTACAO_DOLAR 
+	Escreva “Com essa quantia será possível comprar: US$”
+	Escreva CONVERSAO
+	Escreva “Boa viagem!”
+Fim
+
+- Como você pode perceber, o pseudocódigo é uma técnica que organiza os algoritmos em blocos formados por comandos escritos. Para isso, 
+são usados, por exemplo, os comandos Leia e Escreva para inserção (captura) e exibição (apresentação) de dados, respectivamente. Além dos 
+comandos, o pseudocódigo permite a declaração de variáveis e expressões aritméticas para realizar contas.
+
+O pseudocódigo é uma forma bastante detalhada de escrever sequências lógicas de instruções e processamentos. Nesse sentido, a principal 
+característica desse método é ser muito semelhante ao jeito como as linguagens de programação são codificadas. E foi justamente o ato de ser
+muito parecido com os códigos de programação que fez com que surgisse o nome pseudocódigo, ou seja, “falso” (fictício) código. É importante 
+que saiba que o pseudocódigo tem grande aceitação entre os programadores. Mas por que será que isso ocorre? O principal motivo está no fato de
+o pseudocódigo possibilitar uma tradução praticamente direta para qualquer linguagem de programação específica.
+
+Obs: Como programador da área de Informática, você deverá ser capaz de escrever, interpretar, testar, localizar e resolver erros de lógica 
+tanto em fluxogramas como em pseudocódigos.
+
+A forma básica de um algoritmo em português estruturado:
+
+Algoritmo <nome_do_algoritmo>
+// <explicação resumida do que a rotina irá fazer>
+    Var
+    <declaração das variáveis e do tipo de informação que elas receberão>
+Início
+    <instruções e processamentos encadeados de forma lógica>
+Fim
+
+Todo algoritmo começa com a definição de um nome de identificação para ele, na primeira linha: <nome_do_algoritmo>
+
+Na linha de baixo, deve ser feita a declaração de variáveis, cuja palavra reservada é Var. O termo Var é uma redução da palavra "variável".
+Nesse sentido, o termo Var é um marcador, assim como as palavras INÍCIO, FIM, SE, SENÃO, ENTÃO, FAÇA CASO etc. Um marcador ou uma palavra 
+reservada são termos interpretados de forma diferenciada pelos programas. Por isso, não devem ter outros usos, como nomear variáveis.
+
+Aplicativos que permitem a contrução e o teste de algoritmos escritos em pseudocódigo:
+
+VisuAlg : É um programa utilizado para edição, interpretação e execução de algoritmos com linguagem próxima a do português estruturado, como 
+um programanormal de computador. O software é de livre uso e distribuição, além de ser empregado no ensino de programação em várias escolas
+e universidades, no Brasil e no exterior.
+
+Portugol Studio: É um ambiente para aprender a programar, voltado para os iniciantes em programação que falam o idioma português. O Software 
+possui uma sintaxe fácil, diversos exemplos e materiais de apoio à aprendizagem. Também possibilita a criação de jogos e outras aplicações.
+
+Tipos de Dados
+
+- Programar computadores requer a definição e o uso de espaços em memória para receber informações inseridas pelos usuários. Os espaços em 
+memória recebem informações que podem variar no decorrer de um processamento. Por isso, é muito importante aprender a criar e definir o tipo,
+bem como manipular variáveis e constantes. 
+
+Em linhas gerais, variáveis são espaços em memória que servem para guardar um tipo de dado ou informação. Esses espaços em memória devem receber
+nomes específicos e únicos, para que possam ser referenciados exclusivamente e usados sempre que necessário.
+
+Ao criar um espaço em memória, com conteúdo variável ou constante, precisamos definir e registrar o tipo de dado que será inserido e manipulado.
+
+Dados literais: Ou caracteres são sequências contendo letras, números e outros símbolos especiais. Uma sequência de caracteres deve ser indicada
+entre aspas (“”). Esse tipo de dado é conhecido também como Alfanumérico, String, Literal ou Cadeia. Como exemplos, temos: “Fundação Bradesco”, 
+“Técnico em Desenvolvimento de Sistemas”, “84”, “843.48”, entre outros.
+
+Númericos:
+
+- Númericos Reais: São números positivos, negativos e fracionários. Como exemplo, temos: 584.87, -848.43, 84, 82, -19.20. Lembrando que, na
+formatação universal, a parte fracionária é separada por ponto “.” e não por vírgula “,”, como fazemos na formatação brasileira.
+
+- Númericos Inteiros: São definidos como tipos inteiros. Podem ser dados numéricos positivos ou negativos. Nesse tipo, não se encaixam números 
+fracionários. Como exemplo, temos: 10, -10, 5, 85, -33, 88, -67, entre outros.
+
+- Lógicos: são apenas dois valores utilizados por elementos condicionais para tomadas de decisão.  Algumas bibliografias escrevem os valores 
+lógicos entre pontos, para dar mais ênfase e diferenciá-los de outros conceitos ou definições (como variáveis ou valores literais). 
+Por exemplo: .V. ou .F.  Esses dois valores podem ser: 
+
+Verdadeiro ou Falso, ou .V. ou .F.
+Sim ou Não    
+0 ou 1. 
+
+São também conhecidos como dados booleanos, por referência a George Boole, matemático que deu nome à álgebra booleana, expressão que trata
+desses tipos de dado.
+
+Uso e Funções de Constantes e Variáveis
+
+- Chamamos de constante todo valor fixo que não será alterado durante a execução de um programa. Conforme o contexto de utilização, as constantes
+podem ser classificadas como:
+
+- Numéricas
+- Literais
+- Lógicas
+
+Vejamos um exemplo de uso de CONSTANTE:
+
+IMC = peso/altura² 
+
+Observe que, na fórmula para calcular o IMC (Índice de Massa Corporal), o número dois é um valor constante, pois não muda. Desse modo, o número 
+dois é diferente dos demais elementos (IMC, peso e altura), que vão variar em cada caso. Em relação ao tipo do dado, o número dois deve ser 
+classificado como uma constante do tipo numérica inteira.
+
+Uma variável representa um endereço da memória RAM que armazena, temporariamente, valores e informações. Esses endereços recebem um nome e um 
+conteúdo. Cada vez que mencionamos o nome da variável, seu conteúdo é manipulado. É importante sabermos que as variáveis podem armazenar todos 
+os tipos de dados. Além disso, para criar variáveis ou constantes, precisamos definir um nome simbólico, uma identificação a partir da qual elas
+serão chamadas, o tipo de dado que elas receberão e um valor inicial.
+
+
+A criação de variáveis ocorre no momento de codificação do programa. Desse modo, precisamos atribuir um nome simbólico a determinado endereço
+da memória RAM. No decorrer do programa, esse nome vai ser utilizado para manipular a informação contida no endereço da memória relacionado à 
+variável.
+
+Para nomear uma variável, precisamos seguir algumas regras. 
+
+Os nomes das variáveis:
+
+- Devem sempre começar por uma letra.
+- Não devem ter espaços em branco.
+- Não devem ter caracteres especiais – no máximo, o símbolo sublinhado.
+Por exemplo:
+
+  Nome_cliente
+  Num_funcionario
+  Datanascimento
+
+Além disso, precisamos saber que as variáveis devem ser declaradas sempre no início dos algoritmos e dos programas.
+
+Os valores armazenados nas variáveis permanecem:
+
+- Até que o computador seja desligado pelo usuário ou por falta de energia, já que são armazenados na memória RAM.
+- Por término do programa ou da rotina onde foram criados.
+- Até que seja atribuído um novo valor para a mesma variável.
+Vejamos um exemplo:
+
+Se escrevermos A = 5, o valor cinco será o conteúdo da variável A.
+Se, mais adiante, escrevermos A = 20, o valor vinte passará a ser o novo conteúdo da variável A.
+
+Nesse caso, o valor anterior 5 (cinco) será eliminado (substituído).
+
+O pseudocódigo é um método que não usa estruturas complexas e rígidas – como as sintaxes de linguagens de programação –, nem exige ambientes 
+especiais para edição. Em outras palavras, o pseudocódigo pode ser encarado com uma versão similar e simplificada dos códigos de programação, 
+com o benefício de poder ser escrito em qualquer editor de texto. Isso significa que podemos escrever um algoritmo em pseudocódigo usando o 
+Bloco de Notas, por exemplo. Essa característica faz do pseudocódigo uma ferramenta útil e simples para elaboração de projetos de programas.
+Uma das principais vantagens desse método é que ele pode ser entendido por “não programadores”. Com isso, os desenvolvedores podem apresentar 
+suas ideias e validar sequências instrucionais com profissionais que não são da área de programação.
+
+Descrição Narrativa - A descrição narrativa é a forma mais próxima da linguagem comum.
+
+Diagrama de Blocos - O diagrama de blocos ou fluxograma é uma técnica intermediária que usa formas geométricas e frases curtas para descrever
+um processamento.
+
+Pseudocódigo - O português estruturado ou pseudocódigo é a forma mais detalhada e mais próxima dos códigos de programação.
+
+Obs: De acordo com Oliveira (2004), “há diversas formas de representação de algoritmos que diferem entre si pela quantidade de detalhes de
+implementação que fornecem ou, inversamente, pelo grau de abstração que possibilitam com relação à implementação do algoritmo em termos de uma 
+linguagem de programação específica.”
+
+--------------------------------------------------------------------------------
+Teste de Mesa
+
+Uma vez que escolhemos a forma de representar o algoritmo e concluímos sua estrutura, como saber se o encadeamento lógico está correto? Ao
+desenvolver um algoritmo, devemos submeter a rotina elaborada a um processo de verificação. O objetivo da verificação é simular o funcionamento
+e a eficiência do código ao resolver o problema proposto. Em outras palavras, a ideia é testar a sequência lógica para ver se o encadeamento
+das instruções e dos processamentos está correto ou para ver se há necessidade de ajustes. No jargão da Informática, esse tipo de teste é 
+chamado de teste de mesa. Na prática, esse termo significa seguir as instruções dos algoritmos, de maneira precisa, para verificar se o 
+procedimento utilizado está correto ou não.
+
+Para aplicar a técnica denominada teste de mesa, precisaremos de papel, caneta e paciência, para ler e realizar cada instrução encadeada como 
+se fôssemos um computador. Podemos aplicar o teste de mesa a qualquer tipo de algoritmo, seja uma descrição narrativa, um fluxograma ou um 
+pseudocódigo. 
+--------------------------------------------------------------------------------
+
+Utilização de Pseudocódigos
+
+As regras são muito importantes, já que todos os elementos do pseudocódigo – e também dos códigos – são fundamentais para o funcionamento
+correto do programa. Desse modo, entender o rigor da padronização e aplicá-la é essencial a quem deseja atuar com programação de computadores.
+
+1. Todo algoritmo em pseudocódigo deve ser iniciado com Algoritmo: NomeDoAlgoritmo.
+
+2. O início e fim do programa são limitados pelos marcadores Início e Fim.
+
+3. As variáveis são declaradas no início do algoritmo, abaixo do marcador Var, da seguinte forma: NomeDaVariável: Tipo da variável.
+
+4. Os nomes das variáveis NÃO podem:
+- Iniciar por número (erro: 1nome)
+- Ter espaço (erro: nome completo)
+- Ter caracteres especiais (´,`, ~,ç ,- e outros).
+
+5. As palavras-reservadas devem ser evitadas: Início, Fim, Var, Se e Senão.
+
+6. Os nomes das variáveis são case sensitive(Considera a diferença no uso de letras maiúsculas e minúsculas). Dessa forma, ao manipularmos
+variáveis, devemos usar o mesmo nome declarado no início, considerando o uso de letras maiúsculas e minúsculas.
+
+7. O comando Leia deve ser usado para receber (capturar) dados do usuário, fase do processamento conhecida como “Entrada de Dados”.
+
+8. O comando Escreva deve ser usado para exibir (apresentar, mostrar) dados ao usuário, fase do processamento conhecida como “Saída de Dados”.
+
+9. Os textos a serem exibidos na tela ou que devam ser inseridos como caractere são colocados entre "aspas“ (representação universal de um valor
+literal ou string – “Sistemas”).
+
+10. Os comentários sobre o código podem ser inseridos {entre chaves} (incomum por confundir com agrupamentos) ou inseridos utilizando // 
+(mais comum) no início da linha de instruções. O comentário não altera a execução do código. Contudo, ele é de fundamental importância para 
+documentar e tornar inteligíveis as escolhas de programação realizadas no código para outros programadores.
+--------------------------------------------------------------------------------
+Operadores: Tipos e Usos
+
+- Podemos afirmar que programar computadores é lidar com informações e instruções para manipular dados e chegar a resultados. Nesse sentido, 
+os programas podem realizar cálculos simples e complexos, comparar dados inseridos pelos usuários e dar diferentes encaminhamentos a esses dados,
+dependendo do processamento.
+
+O que o computador fará depende do uso dos chamados operadores. Operadores são elementos que atuam sobre os operandos (variáveis ou constantes), 
+ou seja, são símbolos ou palavras reservadas (true/false) por meio dos quais é possível fazer cálculos, comparar resultados e atribuir valores
+às variáveis. Com isso, os operadores são a chave para que possamos incrementar, decrementar, comparar e avaliar dados dentro do computador.
+
+Existem três tipos diferentes de operadores: aritméticos, relacionais e lógicos.
+
+- Operadores aritméticos: Possibilitam realizar cálculos em expressões matemáticas ou aritméticas. 
+
+Operação	Símbolo
+Soma		+
+Subtração	-
+Multiplicação	*
+Divisão		/
+Exponenciação	** ou ^
+
+- Operadores relacionais: 
+Possibilitam fazer comparações ou relacionamentos entre dados numéricos e literais (caracteres). Suas palavras ou símbolos reservados são:
+
+Operação		Símbolo
+Maior que		>
+Menor que		<
+Maior ou igual a	>=
+Menor ou igual a	<=
+Igual a			=
+Diferente de		<> ou # ou !=
+
+Obs: Os operadores relacionais ou de comparação são muito utilizados nas codificações pelas Linguagens de Programação. Entretanto, alguns
+operadores relacionais possuem outros símbolos para representá-los, mas com as mesmas finalidades. Por exemplo:
+
+= (igual a), que representa uma igualdade na lógica, normalmente quando se deseja fazer uma comparação em uma decisão condicional, é simbolizado
+nas linguagens de programação com duplo sinal de igual ==, x==2 (SE x é igual a 2). Apenas = é utilizado como atribuição, ou seja, x = 2
+(atribuição do valor 2 para x), o que não é uma comparação.
+
+<> (diferente de), que representa uma desigualdade na lógica, é simbolizado de diferentes maneiras nas linguagens de programação. Para utilizar
+o <> (diferente de) nas linguagens, você encontrará outros símbolos, como #, != e <> entre outros. 
+
+- Operadores lógicos: Também chamados de booleanos. Permitem comparar ou relacionar resultados de expressões. 
+
+Operação			Operador
+Conjunção			E
+Disjunção (não exclusiva)	OU
+Negação				NÃO
+Disjunção (exclusiva)		XOU (lê-se “ou exclusivo”)
+
+Obs: Os operadores lógicos ou booleanos também são muito utilizados nas codificações pelas Linguagens de Programação. Quando utilizamos 
+operadores lógicos, obrigatoriamente, estamos nos colocando em uma situação de decisão condicional SE, isto é, um questionamento para resultar 
+em uma situação verdadeira ou falsa. 
+Por exemplo:
+
+SE curso == “sistemas” E período == “matutino” então faça... SENÃO faça...
+Observe que, nessa decisão condicional SE, além de ser utilizado o operador lógico E, também foi empregado o operador relacional/comparação 
+de igualdade ==. Assim será na codificação. Os operadores lógicos são utilizados na programação, conforme a linguagem. Para codificar E,
+você encontrará os símbolos &&. Para codificar OU, você encontrará os símbolos != ||. Para codificar NÃO, você encontrará o símbolo ! !=.
+XOU não é tão empregado, mas você aprenderá com detalhes quando for estudar as linguagens de programação que emprega este elemento.
+--------------------------------------------------------------------------------
+Atribuição de Valores às Variáveis
+
+Ao longo da rotina estabelecida em um algoritmo ou programa, as variáveis devem receber valores de acordo com o tipo de dado que foi declarado 
+inicialmente. Nesse sentido, se declararmos uma variável como dado literal (caractere), não poderemos fazer cálculos com ela.
+
+Exercício 
+
+Questão 1 - Imagine que você esteja fazendo a codificação de um programa para uma escola. No início do programa, você declarou a variável
+MEDIA_FINAL como sendo do tipo literal. Nesse contexto, será que essa variável poderá ser usada para fazer cálculos?
+
+R: Não.
+
+- Para cada variável criada no desenvolvimento de um algoritmo, precisamos pensar em três aspectos: nome, tipo e conteúdo. As três definições
+devem ter coerência entre si para que o programa funcione corretamente e para que seu trabalho como desenvolvedor seja mais fácil. 
+
+Exemplos:
+
+Nome: O nome da variável deve ser escolhido com cuidado, de forma a dar pistas do tipo de informação que ela vai receber.
+Nesse sentido, uma variável chamada MEDIA_FINAL indica que ela será usada para receber e armazenar o cálculo da média final de alunos.
+Ao receber um conteúdo numérico com casas decimais, fica claro que essa variável deve ter um nome de fácil associação com sua utilização efetiva. 
+Dessa forma, algumas possibilidades de nome são MEDIA_FINAL ou MEDIA_ALUNO.
+
+Tipo: Como a nota pode não ser um valor inteiro, a variável MEDIA_FINAL deve ser declarada com o tipo numérica real. Se ela for declara com
+o tipo numérica inteira e receber um valor 9,75 o programa poderá dar erro. Outro problema pode ser o processamento realizado de forma equivocada
+ao considerar apenas a parte inteira do número (9) na hora do cálculo.
+
+Conteúdo: É necessário que esse conteúdo seja coerente com a natureza da informação que foi definida no Tipo. Isso é fundamental para que
+o processamento aconteça corretamente.
+
+Exercício
+
+Questão 1 - Na empresa de TI em que você trabalha, o gerente solicitou que você analisasse um algoritmo criado por um novato para atender
+o pedido de um cliente(empresa de câmbio). A função desse algoritmo é a de converter Real em Dólar.
+
+O algoritmo criado é:
+
+Algoritmo Conversao_real_dolar
+// rotina que converte um determinado valor em reais em dólares
+VALOR_REAL, COTACAO_DOLAR, VALOR_DOLAR: real
+VALOR_REAL = 0
+COTACAO_DOLAR = 0
+VALOR_DOLAR = 0
+Início
+Escreva “Programa para converter reais em dólares”
+Escreva “Informe o valor disponível em reais (para comprar dólares): R$”
+Leia VALOR_REAL
+Escreva “Informe o valor de cotação do dólar do dia: R$”
+VALOR_DOLAR = VALOR_REAL / COTACAO_DOLAR
+Escreva “Com essa quantia será possível comprar: US$”
+Escreva VALOR_DOLAR
+Escreva “Boa viagem!”
+Fim
+
+Após a análise, você concluiu que o algoritmo apresenta erro na:
+
+R: Variável COTACAO_DOLAR, que não recebe valor digitado pelo usuário.
+--------------------------------------------------------------------------------
+CAPÍTULO 2 - Controle de Fluxo e Estruturas de Repetição.
+
+Estruturas Sequenciais
+
+- A estrutura sequencial é uma sequência de instruções que acontecem uma após a outra, sem desvios ou interrupções. Esse tipo de estrutura
+é composto somente de linhas de comando sucessivas (que compõe um único fluxo possível de processamento) e está sempre limitado pelos marcadores
+INÍCIO e FIM do algoritmo ou de uma outra estrutura. As estruturas sequenciais podem ser representadas por fluxogramas e pseudocódigos.
+
+Estruturas de Seleção
+
+- As estruturas de seleção são usadas para que sejam estabelecidos caminhos diferentes de instruções, a serem percorridos a partir de
+tomadas de decisão. Justamente por isso, esses recursos podem ser chamados de estruturas de seleção ou estruturas de decisão. Deverá utilizar os
+recursos de estruturas de seleção sempre que tiver de estruturar sequências de ações que poderão ser executadas ou não, a depender de um 
+resultado frente a uma ou mais condições.
+
+Existem três tipos de estruturas de seleção, cuja aplicação irá depender do contexto de utilização.
+
+Simples: Marcadores: SE, ENTÃO e FIM SE.
+Uso: recurso a ser empregado em situações em que se faz necessário testar uma única condição/variável que, se verdadeira, irá desencadear
+a realização de um ou mais comandos. Temos, então, um teste e um grupo de ações que só acontecerão se a resposta for verdadeira.
+
+Composta: Marcadores: SE, ENTÃO, SENÃO e FIM SE.
+Uso: recurso a ser empregado em situações em que se faz necessário testar uma única condição/variável que, se verdadeira, irá desencadear a 
+realização de um ou mais comandos e que, se for falsa, irá desencadear outro grupo de ações. Temos então um teste e dois grupos de ações 
+possíveis, um que acontecerá se a condição for verdadeira, e outro que acontecerá se a condição for falsa.
+
+Múltipla: Recursos a serem empregados em situações em que se faz necessário testar várias vezes a condição/variável. O resultado de cada 
+teste irá desencadear um determinado grupo de ações.
+
+Utilizando recurso "Se" de forma encadeada (um dentro do outro).
+- Marcadores: SE, ENTÃO, SENÃO e FIM SE
+Utilizando recurso "Faça Caso".
+- Marcadores: FAÇA CASO, CASO, OUTRO CASO, FIM CASO.
+
+Estruturas de Seleção Simples
+
+- A estrutura de seleção simples faz uso da instrução SE (IF). Ela é utilizada quando queremos testar uma condição antes de executarmos uma
+ou mais instruções. Nessa estrutura, somente teremos uma ação SE o resultado da condição for verdadeiro. Desse modo, não há ação a ser
+executada caso o resultado seja falso.
+
+SE CONDIÇÃO = VERDADEIRO 		- AÇÃO.
+SE CONDIÇÃO = FALSO  			  - NÃO HÁ AÇÃO A SER EXECUTADA.
+
+As palavras-chave (marcadores) de uma estrutura de seleção simples são:
+
+SE <CONDIÇÃO> ENTÃO
+	Comandos a serem executados somente se a condição for verdadeira
+FIM SE
+
+Estruturas de Seleção Composta
+
+- Na estrutura de seleção composta existem dois caminhos diferentes predeterminados. Dessa maneira, haverá a execução de um comando 
+ou grupo de comandos caso o resultado da condição seja verdadeiro, OU a execução de outro comando ou grupo de comandos diferente caso o 
+resultado da condição seja falso.
+
+SE CONDIÇÃO = VERDADEIRO 		 - AÇÃO 1
+
+SE CONDIÇÃO = FALSO  			   - AÇÃO 2
+
+As palavras-chave (marcadores) de uma estrutura de seleção composta:
+
+SE <CONDIÇÃO> ENTÃO
+	Comandos a serem executados somente se a condição for verdadeira
+SENAO
+	Comandos a serem executados somente se a condição for falsa
+FIM SE
+
+Estruturas de Seleção Múltiplas
+
+As estruturas de seleção múltiplas são utilizadas em situações mais complexas. Quando precisamos fazer vários testes em uma mesma
+variável, temos de usar estruturas de seleção múltipla. Também usamos essa estrutura para testar o valor de uma variável que depende do
+teste do valor de outra variável. A estrutura de seleção múltipla pode ser construída de duas maneiras diferentes: Estruturas de seleção 
+compostas encadeadas (aninhadas, agrupadas), ou seja, utilização de estruturas SE “uma dentro da outra”. Estrutura FAÇA CASO.
+
+Estrutura de Seleção Múltipla Composta Encadeada
+
+SE <CONDIÇÃO> ENTÃO  
+ Comandos a serem executados somente se a primeira condição for verdadeira   
+SENÃO   SE <CONDIÇÃO> ENTÃO   
+ Comandos a serem executados somente se a segunda condição for verdadeira   
+SENÃO   Comandos a serem executados somente se a segunda condição for falsa 
+FIM SE 
+FIM SE
+
+Estrutura de Seleção Múltipla FAÇA CASO
+
+As palavras-chave (marcadores) dessa estrutura são:
+
+FAÇA CASO
+	CASO <CONDIÇÃO>:
+		Comandos a serem executados somente se a condição for verdadeira
+	CASO <CONDIÇÃO>:
+		Comandos a serem executados somente se a condição for verdadeira
+	CASO <CONDIÇÃO>:
+		Comandos a serem executados somente se a condição for verdadeira
+	OUTRO CASO:
+		Comandos a serem executados se todos os casos mapeados retornarem “falso”
+
+FIM CASO
+
+Diferença entre Estrutura de Seleção Composta Encadeada e Estrutura de Seleção Múltipla:
+
+1. Estrutura de seleção composta encadeada
+
+ALGORITIMO ESTADOCIVIL
+  VAR
+  EC: inteiro
+  EC = 0
+INICIO
+    Escreva "Digite o estado civil (1 – solteiro, 2 – casado, 3 – outros)"
+    Leia EC
+  SE EC = 1 ENTAO
+    Escreva "Solteiro"
+  SENAO
+    SE EC = 2 ENTAO
+      Escreva "Casado"
+    SENAO
+      SE EC = 3 ENTAO
+      Escreva "Outros"
+      SENAO
+      Escreva "Valor inválido"
+      FIM SE
+    FIM SE
+  FIM SE
+FIM
+
+2. Estrutura múltipla 
+
+ALGORITIMO ESTADOCIVIL
+  VAR
+  EC: inteiro
+  EC = 0
+INICIO
+    Escreva "Digite o estado civil (1 – solteiro, 2 – casado, 3 – outros)"
+    Leia EC
+      FACA CASO
+        CASO EC = 1:
+        Escreva "Solteiro"
+        CASO EC = 2:
+        Escreva "Casado"
+        CASO EC = 3:
+        Escreva "Outros"
+        OUTRO_CASO:
+        Escreva "Valor inválido"
+      FIM CASO
+FIM
+
+Exercício
+Questão 1 - Você está desenvolvendo um novo sistema para a escola em que trabalha como técnico de TI e necessita realizar o Teste de
+Mesa no algoritmo abaixo, levando em conta, para simulação, os valores iniciais que você deverá informar para N1=8,0 e N2=5,0:
+
+	ALGORITMO SituacaoAluno
+	VAR
+		N1, N2, Media:real
+	N1 = 0
+	N2 = 0
+	Media = 0
+	INICIO
+	  Escreva “Informe a primeira nota:”
+	  Leia N1
+	  Escreva “Informe a segunda nota:”
+	  Leia N2
+	  Media = (N1+N2) /2
+	  Escreva Media
+	SE Media >=6 ENTÃO
+	   Escreva “Aluno(a) aprovado(a)”
+	SENÃO
+	   Escreva “Aluno(a) reprovado(a)”
+	FIM SE
+	FIM
+
+Sabendo que N1 = 8,0 e N2 = 5,0, selecione os termos que preenchem corretamente as lacunas a seguir e formam a mensagem que aparecerá 
+impressa em Média:
+
+R: Média 6.5 e o aluno estará Aprovado.
+--------------------------------------------------------------------------------
+Estrutura de Repetição
+
+- Em certos momentos, surgem circunstâncias específicas em programação que exigem que uma ação ou um grupo de ações seja realizado várias
+vezes. Para resolver esses casos de forma lógica foram criadas as chamadas “Estruturas de Repetição”, que permitem criar blocos de repetição
+até que determinada condição se torne verdadeira ou por um número predeterminado de vezes.
+
+Como as repetições são programadas no computador? Para resolver situações envolvendo repetição de forma lógica e inteligente, foram criadas
+as chamadas estruturas de repetição ou laços de repetição.
+
+As estruturas de repetição permitem programar o loop (Conjunto de instruções que um programa de computador percorre e repete um significativo
+número de vezes, até que sejam alcançadas as condições desejadas.) de blocos de instrução a partir de parâmetros previamente estabelecidos
+em algoritmos ou códigos de programação.
+
+Para o uso correto de estruturas de repetição, um item fundamental que deve ser compreendido é o controle do número de vezes que a estrutura
+será repetida. Desse modo, as repetições podem ser controladas a partir de alguns recursos.
+
+- Contador fixo: Recurso que utiliza uma variável Contador (Definição de uma variável qualquer para controlar o número de repetições de
+um loop (laço).) para contar o número de vezes que uma determinada sequência será repetida. Quando o valor do contador atingir o número 
+predeterminado, a repetição será encerrada.
+
+Contador = Contador + 1
+
+- Flag de resposta (sinalização do usuário: Recurso que, ao final do processamento, pergunta ao usuário se ele deseja ou não executar a
+rotina de novo, armazenando o resultado da resposta em um flag de resposta, isto é, uma variável, por exemplo Resp. Neste caso, o loop 
+(ciclo ou laço) é interrompido pelo usuário.
+
+Resp = “Deseja continuar <s/n>?”
+
+- Flag predeterminado (sinalização predeterminada): Recurso que possibilita ao usuário encerrar o loop quando quiser, digitando uma 
+palavra predeterminada, ou quando se chegar a uma condição específica, determinada pelo valor de um campo específico.
+
+“Digite o nome do aluno ou FIM para sair:”
+
+Para construir estruturas de repetição, podemos utilizar dois tipos de recursos diferentes.
+
+ENQUANTO...FAÇA (WHILE): Serve tanto para repetições com contador fixo quanto para repetições por sinalizações (flag).
+PARA PRÓXIMO (FOR NEXT): Serve apenas para repetições por contador fixo.
+
+- A instrução ENQUANTO...FAÇA (WHILE) indica o início de um loop e recebe uma condição como parâmetro. Tal condição é chamada de condição
+de parada, já que o loop é encerrado quando a condição retornar um valor lógico falso ou o loop nem é iniciado se a verificação condicional 
+resultar em um valor lógico falso assim que a estrutura de repetição for iniciada.
+
+ENQUANTO<CONDIÇÃO>FAÇA		- O programa executa tudo que estiver contido entre os marcadores ENQUANTO... FAÇA e FIM ENQUANTO				
+Comandos a serem repetidos.
+FIM ENQUANTO			        - Quando é encontrada a palavra FIM ENQUANTO, a rotina retorna ao início da estrutura e testa novamente a condição.
+Enquanto a condição for verdadeira, continua a repetição (loop).
+
+- Nessa estrutura, a rotina de repetição só é executada caso a condição seja verdadeira. Se a condição for falsa, a estrutura é ignorada 
+e finalizada.
+
+Estrutura PARA PRÓXIMO (FOR NEXT)
+
+- A estrutura PARA PRÓXIMO tem uma estrutura que lhe é particular. Vamos conhecê-la? Clique nas setas azuis para acompanhar o esquema.
+
+PARA<VAR = vi> ATÉ <vf> [PASSO <N>]		      	PARA A = 2 ATÉ 10 PASSO 2 
+Comandos a serem repetidos	       	Exemplo - 		Escreva A 	-   RESULTADO	  4
+PRÓXIMO				                          	  PRÓXIMO									          6
+														                                                	8
+															                                               10
+Legenda: vi = valor inicial; vf = valor final (Neste exemplo, vi e vf minúsculas não são variáveis, são apenas valores).
+Para a variável A, note que foram atribuídos os valores vi = 2 (A=2); vf = 10 (Até 10).
+
+Nesse tipo de construção, a rotina sempre entra na estrutura na primeira vez. Como temos a atribuição VAR = vi (valor inicial) no início da
+estrutura, tudo o que estiver dentro dela se repetirá até encontrar a palavra PRÓXIMO. Quando encontra a palavra PRÓXIMO, a rotina soma o 
+valor do passo (somar 2) à variável de controle (A) e realiza um teste com o valor final (vf). Enquanto o valor da variável de controle 
+não atender a condição determinada para o valor final (vf), a rotina continuará se repetindo.
+
+Exercício
+
+Questão 1 - Na empresa de TI em que trabalha, seu supervisor pediu que você examinasse o trecho de código apresentado a seguir, utilizando a instrução ENQUANTO...FAÇA (while):
+
+NUM_A=0
+ENQUANTO NUM_A<20 FAÇA
+
+NUM_A = NUM_A + 4
+Escreva NUM_A
+
+FIM ENQUANTO
+
+Analisando o trecho, você verificou que:
+
+R: O resultado será: 4, 8, 12, 16, 20.
